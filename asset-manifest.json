@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/virtual-white-board/static/css/main.44d18034.chunk.css",
+    "main.css": "/virtual-white-board/static/css/main.0d324529.chunk.css",
     "main.js": "/virtual-white-board/static/js/main.66940d7b.chunk.js",
     "main.js.map": "/virtual-white-board/static/js/main.66940d7b.chunk.js.map",
     "runtime-main.js": "/virtual-white-board/static/js/runtime-main.cc4fa4fb.js",
@@ -10,7 +10,7 @@
     "static/js/2.98228786.chunk.js.map": "/virtual-white-board/static/js/2.98228786.chunk.js.map",
     "index.html": "/virtual-white-board/index.html",
     "static/css/2.818011ed.chunk.css.map": "/virtual-white-board/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.44d18034.chunk.css.map": "/virtual-white-board/static/css/main.44d18034.chunk.css.map",
+    "static/css/main.0d324529.chunk.css.map": "/virtual-white-board/static/css/main.0d324529.chunk.css.map",
     "static/js/2.98228786.chunk.js.LICENSE.txt": "/virtual-white-board/static/js/2.98228786.chunk.js.LICENSE.txt",
     "static/media/index.css": "/virtual-white-board/static/media/blue-background.da6ecc6c.jpg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.cc4fa4fb.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.98228786.chunk.js",
-    "static/css/main.44d18034.chunk.css",
+    "static/css/main.0d324529.chunk.css",
     "static/js/main.66940d7b.chunk.js"
   ]
 }
