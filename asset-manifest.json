@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/virtual-white-board/static/css/main.a617e044.chunk.css",
-    "main.js": "/virtual-white-board/static/js/main.3b544317.chunk.js",
-    "main.js.map": "/virtual-white-board/static/js/main.3b544317.chunk.js.map",
-    "runtime-main.js": "/virtual-white-board/static/js/runtime-main.cd94fbad.js",
-    "runtime-main.js.map": "/virtual-white-board/static/js/runtime-main.cd94fbad.js.map",
-    "static/js/2.12682c02.chunk.js": "/virtual-white-board/static/js/2.12682c02.chunk.js",
-    "static/js/2.12682c02.chunk.js.map": "/virtual-white-board/static/js/2.12682c02.chunk.js.map",
-    "static/js/3.830188a5.chunk.js": "/virtual-white-board/static/js/3.830188a5.chunk.js",
-    "static/js/3.830188a5.chunk.js.map": "/virtual-white-board/static/js/3.830188a5.chunk.js.map",
+    "main.css": "/virtual-white-board/static/css/main.a29f814f.chunk.css",
+    "main.js": "/virtual-white-board/static/js/main.1dd3c87d.chunk.js",
+    "main.js.map": "/virtual-white-board/static/js/main.1dd3c87d.chunk.js.map",
+    "runtime-main.js": "/virtual-white-board/static/js/runtime-main.cc4fa4fb.js",
+    "runtime-main.js.map": "/virtual-white-board/static/js/runtime-main.cc4fa4fb.js.map",
+    "static/css/2.818011ed.chunk.css": "/virtual-white-board/static/css/2.818011ed.chunk.css",
+    "static/js/2.98228786.chunk.js": "/virtual-white-board/static/js/2.98228786.chunk.js",
+    "static/js/2.98228786.chunk.js.map": "/virtual-white-board/static/js/2.98228786.chunk.js.map",
     "index.html": "/virtual-white-board/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/virtual-white-board/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.12682c02.chunk.js.LICENSE.txt": "/virtual-white-board/static/js/2.12682c02.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/virtual-white-board/static/media/logo.6ce24c58.svg"
+    "static/css/2.818011ed.chunk.css.map": "/virtual-white-board/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a29f814f.chunk.css.map": "/virtual-white-board/static/css/main.a29f814f.chunk.css.map",
+    "static/js/2.98228786.chunk.js.LICENSE.txt": "/virtual-white-board/static/js/2.98228786.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/virtual-white-board/static/media/blue-background.da6ecc6c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd94fbad.js",
-    "static/js/2.12682c02.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.3b544317.chunk.js"
+    "static/js/runtime-main.cc4fa4fb.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.98228786.chunk.js",
+    "static/css/main.a29f814f.chunk.css",
+    "static/js/main.1dd3c87d.chunk.js"
   ]
 }
